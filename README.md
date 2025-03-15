@@ -1,24 +1,24 @@
-# 🌿 Sulcrus | Full Stack Developer & System Administrator
+# 🌱 Sulcrus | Full Stack Developer & System Administrator
 
 <div align="center">
-  <img src="https://i.imgur.com/pnIe7QQ.png" width="100%" height="250" alt="Cozy workspace banner" style="border-radius: 15px;">
-  <p><i>Last updated: March 15, 2025</i></p>
+  <img src="https://wallpaperaccess.com/full/116376.jpg" width="100%" height="250" alt="Studio Ghibli Forest" style="border-radius: 15px; object-fit: cover;">
+  <p><i>Last updated: March 15, 2025 | 13:22 UTC</i></p>
 </div>
 
-## 🍵 About Me
+## 🍃 About Me
 
-Hello there! I'm currently working as a Full Stack Web Developer and System Administrator at Quantam Tech. I enjoy creating seamless digital experiences while ensuring everything runs smoothly behind the scenes. When I'm not coding or managing systems, you'll find me exploring new technologies or enjoying a good cup of coffee.
+Hello there, wanderer! I'm currently working as a Full Stack Web Developer and System Administrator, crafting digital worlds while ensuring harmony behind the scenes. Like Totoro watching over the forest, I maintain and protect our systems while helping create magical user experiences.
 
-<div style="background-color: #f8f3e9; padding: 20px; border-radius: 15px; border-left: 4px solid #d9b99b;">
-  <p>💭 <i>"Technology is best when it brings people together."</i></p>
+<div style="background-color: #d4e9e2; padding: 20px; border-radius: 15px; border-left: 4px solid #67a3a3;">
+  <p>💭 <i>"To see with eyes unclouded by hate."</i> — Hayao Miyazaki</p>
 </div>
 
-## 🪵 Skills & Technologies
+## 🌿 Skills & Technologies
 
-<table style="border-collapse: separate; border-spacing: 10px; background-color: #f8f3e9; border-radius: 15px;">
+<table style="border-collapse: separate; border-spacing: 10px; background-color: #f0f5f4; border-radius: 15px;">
   <tr>
-    <td valign="top" style="padding: 15px; background-color: #f4ece1; border-radius: 10px;">
-      <h3>🖥️ Frontend</h3>
+    <td valign="top" style="padding: 15px; background-color: #d4e9e2; border-radius: 10px;">
+      <h3>🌻 Frontend</h3>
       <div>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -27,8 +27,8 @@ Hello there! I'm currently working as a Full Stack Web Developer and System Admi
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
       </div>
     </td>
-    <td valign="top" style="padding: 15px; background-color: #f4ece1; border-radius: 10px;">
-      <h3>⚙️ Backend</h3>
+    <td valign="top" style="padding: 15px; background-color: #d4e9e2; border-radius: 10px;">
+      <h3>⛰️ Backend</h3>
       <div>
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -37,8 +37,8 @@ Hello there! I'm currently working as a Full Stack Web Developer and System Admi
     </td>
   </tr>
   <tr>
-    <td valign="top" style="padding: 15px; background-color: #f4ece1; border-radius: 10px;">
-      <h3>🔧 DevOps & Admin</h3>
+    <td valign="top" style="padding: 15px; background-color: #d4e9e2; border-radius: 10px;">
+      <h3>🌊 DevOps & Admin</h3>
       <div>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -46,8 +46,8 @@ Hello there! I'm currently working as a Full Stack Web Developer and System Admi
         <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
       </div>
     </td>
-    <td valign="top" style="padding: 15px; background-color: #f4ece1; border-radius: 10px;">
-      <h3>🚀 Cloud & Deployment</h3>
+    <td valign="top" style="padding: 15px; background-color: #d4e9e2; border-radius: 10px;">
+      <h3>🐉 Cloud & Deployment</h3>
       <div>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
@@ -59,23 +59,23 @@ Hello there! I'm currently working as a Full Stack Web Developer and System Admi
 
 ## 🌙 GitHub Stats
 
-<div align="center" style="background-color: #f8f3e9; padding: 20px; border-radius: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulcrus&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
+<div align="center" style="background-color: #f0f5f4; padding: 20px; border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulcrus&theme=vue&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="margin-bottom: 10px;" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulcrus&theme=solarized-light&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulcrus&theme=vue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-## 🪴 Current Projects
+## 🌳 Current Projects
 
-<div style="background-color: #f4ece1; padding: 15px; border-radius: 15px; margin: 20px 0;">
+<div style="background-color: #d4e9e2; padding: 15px; border-radius: 15px; margin: 20px 0;">
   <ul>
-    <li>🌱 Optimizing infrastructure management systems</li>
-    <li>🏡 Building responsive web applications with React and Next.js</li>
-    <li>☕ Automating deployment workflows for smoother team collaboration</li>
+    <li>🍙 Crafting resilient infrastructure systems</li>
+    <li>🏮 Building enchanting web applications with React and Next.js</li>
+    <li>🌠 Automating workflows to bring balance to developer experiences</li>
   </ul>
 </div>
 
-## 🧶 Connect With Me
+## 🍄 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/sulcrus" target="_blank">
@@ -90,12 +90,19 @@ Hello there! I'm currently working as a Full Stack Web Developer and System Admi
 </div>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=sulcrus&style=flat-square&color=d9b99b" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sulcrus&style=flat-square&color=67a3a3" alt="Profile views" />
 </div>
 
 ---
 
 <div align="center">
-  <p>🌿 <i>Wishing you a peaceful and productive day!</i> 🌿</p>
-  <img src="https://i.imgur.com/LbHtTAm.png" width="80" height="80" alt="Cozy decoration" />
+  <p>🌿 <i>"The world is not beautiful; and that, in a way, lends it a sort of beauty."</i> 🌿</p>
+  
+  <pre style="background-color: transparent; border: none;">
+      /\
+     /  \
+    /____\
+    |    |
+    |    |
+  </pre>
 </div>
