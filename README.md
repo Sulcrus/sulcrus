@@ -1,11 +1,11 @@
-# 🌱 Sulcrus | Full Stack Developer & System Administrator
+#  Sulcrus | Full Stack Developer & System Administrator
 
 <div align="center">
   <img src="https://wallpaperaccess.com/full/116376.jpg" width="100%" height="250" alt="Studio Ghibli Forest" style="border-radius: 15px; object-fit: cover;">
   <p><i>Last updated: March 15, 2025 | 13:22 UTC</i></p>
 </div>
 
-## 🍃 About Me
+##  About Me
 
 Hello there, wanderer! I'm currently working as a Full Stack Web Developer and System Administrator, crafting digital worlds while ensuring harmony behind the scenes. Like Totoro watching over the forest, I maintain and protect our systems while helping create magical user experiences.
 
@@ -13,7 +13,7 @@ Hello there, wanderer! I'm currently working as a Full Stack Web Developer and S
   <p>💭 <i>"To see with eyes unclouded by hate."</i> — Hayao Miyazaki</p>
 </div>
 
-## 🌿 Skills & Technologies
+## Skills & Technologies
 
 <table style="border-collapse: separate; border-spacing: 10px; background-color: #f0f5f4; border-radius: 15px;">
   <tr>
