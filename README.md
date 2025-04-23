@@ -1,8 +1,7 @@
 #  Sulcrus | Full Stack Developer & System Administrator
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/116376.jpg" width="100%" height="250" alt="Studio Ghibli Forest" style="border-radius: 15px; object-fit: cover;">
-  <p><i>Last updated: March 15, 2025 | 13:22 UTC</i></p>
+  <img src="https://cdn.discordapp.com/attachments/1362643425232421126/1364618271172591657/heh.gif?ex=680a534d&is=680901cd&hm=5e194ad3c92035b0f9ceb7b0a52d130d4fcd96fec3fb384b56f821694b3e1675&" width="100%" height="250" alt="Studio Ghibli Forest" style="border-radius: 15px; object-fit: cover;">
 </div>
 
 ##  About Me
