@@ -6,7 +6,7 @@
 
 ##  About Me
 
-Hello there, wanderer! I'm currently working as a Full Stack Web Developer and System Administrator, crafting digital worlds while ensuring harmony behind the scenes. Like Totoro watching over the forest, I maintain and protect our systems while helping create magical user experiences.
+.
 
 <div style="background-color: #d4e9e2; padding: 20px; border-radius: 15px; border-left: 4px solid #67a3a3;">
   <p>💭 <i>"To see with eyes unclouded by hate."</i> — Hayao Miyazaki</p>
@@ -64,15 +64,6 @@ Hello there, wanderer! I'm currently working as a Full Stack Web Developer and S
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulcrus&theme=vue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-## 🌳 Current Projects
-
-<div style="background-color: #d4e9e2; padding: 15px; border-radius: 15px; margin: 20px 0;">
-  <ul>
-    <li>🍙 Crafting resilient infrastructure systems</li>
-    <li>🏮 Building enchanting web applications with React and Next.js</li>
-    <li>🌠 Automating workflows to bring balance to developer experiences</li>
-  </ul>
-</div>
 
 ## 🍄 Connect With Me
 
